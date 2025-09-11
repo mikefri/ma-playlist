@@ -1,11 +1,93 @@
 [
-  
   {
-    "title": "Nom de la chanson",
-    "artist": "Nom de l'artiste",
+    "title": "Back In Black",
+    "artist": "AC/DC",
     "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Back%20In%20Black.mp3",
     "sample_rate": "",
     "artist_image": ""
-}
-  
+  },
+  {
+    "title": "Highway to Hell",
+    "artist": "AC/DC",
+    "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Highway%20to%20Hell.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Thunderstruck.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Hello",
+    "artist": "Adele",
+    "path": "https://mikefri.github.io/ma-playlist/Adele%20-%20Hello.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "path": "https://mikefri.github.io/ma-playlist/Adele%20-%20Rolling%20in%20the%20Deep.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "path": "https://mikefri.github.io/ma-playlist/Coldplay%20-%20A%20Sky%20Full%20of%20Stars.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Baby Don't Hurt Me",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Baby%20Don't%20Hurt%20Me.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "I Can Only Imagine",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Can%20Only%20Imagine.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "I Don't Wanna Wait",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Don't%20Wanna%20Wait.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "I'm Good (Blue)",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I'm%20Good%20(Blue).mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Love Is Gone",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Love%20Is%20Gone.mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Sexy Bitch (feat. Akon)",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Sexy%20Bitch%20(feat.%20Akon).mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  },
+  {
+    "title": "Titanium (feat. Sia)",
+    "artist": "David Guetta",
+    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Titanium%20(feat.%20Sia).mp3",
+    "sample_rate": "",
+    "artist_image": ""
+  }
 ]
