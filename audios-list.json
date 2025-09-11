@@ -1,93 +1,198 @@
 [
-  {
-    "title": "Back In Black",
-    "artist": "AC/DC",
-    "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Back%20In%20Black.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Highway to Hell",
-    "artist": "AC/DC",
-    "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Highway%20to%20Hell.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Thunderstruck",
-    "artist": "AC/DC",
-    "path": "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Thunderstruck.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Hello",
-    "artist": "Adele",
-    "path": "https://mikefri.github.io/ma-playlist/Adele%20-%20Hello.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Rolling in the Deep",
-    "artist": "Adele",
-    "path": "https://mikefri.github.io/ma-playlist/Adele%20-%20Rolling%20in%20the%20Deep.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "A Sky Full of Stars",
-    "artist": "Coldplay",
-    "path": "https://mikefri.github.io/ma-playlist/Coldplay%20-%20A%20Sky%20Full%20of%20Stars.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Baby Don't Hurt Me",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Baby%20Don't%20Hurt%20Me.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "I Can Only Imagine",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Can%20Only%20Imagine.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "I Don't Wanna Wait",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Don't%20Wanna%20Wait.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "I'm Good (Blue)",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I'm%20Good%20(Blue).mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Love Is Gone",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Love%20Is%20Gone.mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Sexy Bitch (feat. Akon)",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Sexy%20Bitch%20(feat.%20Akon).mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  },
-  {
-    "title": "Titanium (feat. Sia)",
-    "artist": "David Guetta",
-    "path": "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Titanium%20(feat.%20Sia).mp3",
-    "sample_rate": "",
-    "artist_image": ""
-  }
+    {
+        "artist":  "AC_DC",
+        "title":  "- Back In Black",
+        "path":  "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Back%20In%20Black.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "AC_DC",
+        "title":  "- Highway to Hell",
+        "path":  "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Highway%20to%20Hell.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "AC_DC",
+        "title":  "- Thunderstruck",
+        "path":  "https://mikefri.github.io/ma-playlist/AC_DC%20-%20Thunderstruck.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Adele",
+        "title":  "- Hello",
+        "path":  "https://mikefri.github.io/ma-playlist/Adele%20-%20Hello.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Adele",
+        "title":  "- Rolling in the Deep",
+        "path":  "https://mikefri.github.io/ma-playlist/Adele%20-%20Rolling%20in%20the%20Deep.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Coldplay",
+        "title":  "- A Sky Full of Stars",
+        "path":  "https://mikefri.github.io/ma-playlist/Coldplay%20-%20A%20Sky%20Full%20of%20Stars.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - Baby Don\u0027t Hurt Me",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Baby%20Don\u0027t%20Hurt%20Me.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - I Can Only Imagine",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Can%20Only%20Imagine.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - I Don\u0027t Wanna Wait",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I%20Don\u0027t%20Wanna%20Wait.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - I\u0027m Good (Blue)",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20I\u0027m%20Good%20(Blue).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - Love Is Gone",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Love%20Is%20Gone.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - Sexy Bitch (feat. Akon)",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Sexy%20Bitch%20(feat.%20Akon).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "David",
+        "title":  "Guetta - Titanium (feat. Sia)",
+        "path":  "https://mikefri.github.io/ma-playlist/David%20Guetta%20-%20Titanium%20(feat.%20Sia).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Flo",
+        "title":  "Rida - Club Can\u0027t Handle Me (feat. David Guetta)",
+        "path":  "https://mikefri.github.io/ma-playlist/Flo%20Rida%20-%20Club%20Can\u0027t%20Handle%20Me%20(feat.%20David%20Guetta).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Flo",
+        "title":  "Rida - Good Feeling",
+        "path":  "https://mikefri.github.io/ma-playlist/Flo%20Rida%20-%20Good%20Feeling.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Guns",
+        "title":  "N\u0027 Roses - Paradise City",
+        "path":  "https://mikefri.github.io/ma-playlist/Guns%20N\u0027%20Roses%20-%20Paradise%20City.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Guns",
+        "title":  "N\u0027 Roses - Welcome To The Jungle",
+        "path":  "https://mikefri.github.io/ma-playlist/Guns%20N\u0027%20Roses%20-%20Welcome%20To%20The%20Jungle.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Jessy",
+        "title":  "Matador - Allez Ola Olé (radio edit)",
+        "path":  "https://mikefri.github.io/ma-playlist/Jessy%20Matador%20-%20Allez%20Ola%20Olé%20(radio%20edit).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Justin",
+        "title":  "Timberlake - CAN\u0027T STOP THE FEELING!",
+        "path":  "https://mikefri.github.io/ma-playlist/Justin%20Timberlake%20-%20CAN\u0027T%20STOP%20THE%20FEELING!.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Katy",
+        "title":  "Perry - Hot N Cold",
+        "path":  "https://mikefri.github.io/ma-playlist/Katy%20Perry%20-%20Hot%20N%20Cold.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Kavinsky",
+        "title":  "- Nightcall",
+        "path":  "https://mikefri.github.io/ma-playlist/Kavinsky%20-%20Nightcall.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "La",
+        "title":  "petite culotte - La goffa Lolita",
+        "path":  "https://mikefri.github.io/ma-playlist/La%20petite%20culotte%20-%20La%20goffa%20Lolita.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Laback",
+        "title":  "- Titanic x My Heart Will Go On (Summer Version)",
+        "path":  "https://mikefri.github.io/ma-playlist/Laback%20-%20Titanic%20x%20My%20Heart%20Will%20Go%20On%20(Summer%20Version).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "LMFAO",
+        "title":  "- Party Rock Anthem",
+        "path":  "https://mikefri.github.io/ma-playlist/LMFAO%20-%20Party%20Rock%20Anthem.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Madonna",
+        "title":  "- Hung Up",
+        "path":  "https://mikefri.github.io/ma-playlist/Madonna%20-%20Hung%20Up.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Magic",
+        "title":  "System - Magic in the Air (feat. Ahmed Chawki)",
+        "path":  "https://mikefri.github.io/ma-playlist/Magic%20System%20-%20Magic%20in%20the%20Air%20(feat.%20Ahmed%20Chawki).mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Miley",
+        "title":  "Cyrus - Flowers",
+        "path":  "https://mikefri.github.io/ma-playlist/Miley%20Cyrus%20-%20Flowers.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Pharrell",
+        "title":  "Williams - Happy",
+        "path":  "https://mikefri.github.io/ma-playlist/Pharrell%20Williams%20-%20Happy.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    }
 ]
