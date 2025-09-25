@@ -194,5 +194,19 @@
         "path":  "https://mikefri.github.io/ma-playlist/Pharrell%20Williams%20-%20Happy.mp3",
         "artist_image":  "",
         "sample_rate":  ""
+    },
+    {
+        "artist":  "Enya",
+        "title":  "Only Time",
+        "path":  "https://mikefri.github.io/ma-playlist/Only Time - Enya.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
+    },
+    {
+        "artist":  "Kiss",
+        "title":  "I Was Made For Lovin You",
+        "path":  "https://mikefri.github.io/ma-playlist/I Was Made For Lovin You - Kiss.mp3",
+        "artist_image":  "",
+        "sample_rate":  ""
     }
 ]
